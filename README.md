@@ -23,7 +23,7 @@ A lot of what I learn ends up in workshops, writeups, or small projects. If it s
 A few things I've worked on or put together:
 
 - [CVE-2025-55182-PoC](https://github.com/Emiyelbarto/CVE-2025-55182-PoC) - React2Shell PoC
-- [HackAndBeerWorkshop](https://github.com/Emiyelbarto/HackAndBeerWorkshop) — Python and Burp Suite workshop materials
+- [PythonIntroductionWorkshop](https://github.com/Emiyelbarto/PythonIntroductionWorkshop) — Python and Burp Suite workshop materials
 - [soundmetrics-range](https://github.com/Emiyelbarto/soundmetrics-range) — Vulnerable environment for JavaScript bundle security workshops
 - [IPN-ESCOM](https://github.com/Emiyelbarto/IPN-ESCOM) — Notes, projects, and resources from my university days. Feel free to use anything useful.
 
