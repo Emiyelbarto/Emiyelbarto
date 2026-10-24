@@ -31,4 +31,4 @@ A few things I've worked on or put together:
 
 I keep most of my research notes in a rather large Obsidian vault. It's not particularly organized, but at least I know where *some* things are. I love going to the gym and seeing movies.
 
-Feel free to explore my repositories, open an issue, or reach out if you're working on something interesting at `emimetallica2009@gmail.com`.
+Feel free to explore my repositories, open an issue, or reach out if you're working on something interesting at `emivp2310@gmail.com`.
